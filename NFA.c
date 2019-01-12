@@ -90,8 +90,7 @@ int main(void)
 		}
 		start=dfa[start][n];
 	}*/
-	/*start=check(start,symbolN,dfa,input,symbol,0);
-	//printf("%d\n",start);
+	/*
 	for(i=0;i<endN;i++)
 	{
 		if(start==end[i])
